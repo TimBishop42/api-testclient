@@ -23,11 +23,10 @@ public class Pwned {
     private Date addedDate;
 
     private Date modifiedDate;
-    private int PwnCount;
-    private List<String> DataClasses;
-    private boolean IsVerified;
-    private boolean IsFabricated;
-    private boolean IsSensitive;
-    private boolean IsRetired;
-    private boolean IsSpamList;
+//    private List<String> DataClasses;
+    private boolean isVerified;
+    private boolean isFabricated;
+    private boolean isSensitive;
+    private boolean isRetired;
+    private boolean isSpamList;
 }

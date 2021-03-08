@@ -54,7 +54,7 @@ public class TestController {
                 "    \"ModifiedDate\":\"2014-01-23T13:10Z\",\n" +
                 "    \"PwnCount\":530270,\n" +
                 "    \"Description\":\"In June 2011 as part of a final breached data dump, the hacker collective &quot;LulzSec&quot; <a href=\\\"http://www.rockpapershotgun.com/2011/06/26/lulzsec-over-release-battlefield-heroes-data\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">obtained and released over half a million usernames and passwords from the game Battlefield Heroes</a>. The passwords were stored as MD5 hashes with no salt and many were easily converted back to their plain text versions.\",\n" +
-                "    \"DataClasses\":[\"Passwords\",\"Usernames\"],\n" +
+//                "    \"DataClasses\":[\"Passwords\",\"Usernames\"],\n" +
                 "    \"IsVerified\":true,\n" +
                 "    \"IsFabricated\":false,\n" +
                 "    \"IsSensitive\":false,\n" +

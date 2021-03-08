@@ -14,7 +14,7 @@
     <name>test-api</name>
     <description>API to test client interations</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
     <dependencies>
         <dependency>
